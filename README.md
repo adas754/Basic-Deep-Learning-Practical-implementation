@@ -1,1 +1,1 @@
-Basic Practicle example of ANN,CNN
+# Basic Practicle example of ANN,LSTM,word Embedding
