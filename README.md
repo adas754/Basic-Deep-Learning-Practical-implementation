@@ -1,1 +1,1 @@
-# Basic Practicle example of ANN,LSTM,word Embedding,bidrectional lstm rnn, transfer learning
+# Basic Practicle example of ANN,CNN, LSTM,word Embedding,bidrectional lstm rnn, transfer learning
